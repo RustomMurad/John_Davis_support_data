@@ -1,4 +1,4 @@
-No.	Salinity, ppt
+No.	Salinity.permil
 1	46
 2	37
 3	62
