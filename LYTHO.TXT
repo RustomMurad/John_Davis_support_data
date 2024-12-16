@@ -28,8 +28,8 @@ depth	Rp.kg.cm2	Rp.L	lytho	type
 5.6	54.0	86.0	Limo e/o argillan inorganica	Coesivi
 5.8	42.0	66.0	Limo e/o argillan inorganica	Coesivi
 6.0	45.0	70.0	Limo e/o argillan inorganica	Coesivi
-6.2	53.0	70.0	Limo sabbioso e sabbia limosa	
-6.4	55.0	81.0	Limo sabbioso e sabbia limosa	
+6.2	53.0	70.0	Limo sabbioso e sabbia limosa	Granulari
+6.4	55.0	81.0	Limo sabbioso e sabbia limosa	Granulari
 6.6	37.0	70.0	Limo e/o argillan inorganica	Coesivi
 6.8	52.0	83.0	Limo e/o argillan inorganica	Coesivi
 7.0	60.0	92.0	Limo e/o argillan inorganica	Coesivi
