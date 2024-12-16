@@ -1,0 +1,48 @@
+depth	Rp.kg.cm2	Rp.L	lytho	type
+0.4	14.0	25.0	Limo e/o argillan inorganica	Coesivi
+0.6	14.0	31.0	Argilla organica e torba	Coesivi
+0.8	18.0	38.0	Argilla organica e torba	Coesivi
+1.0	18.0	38.0	Argilla organica e torba	Coesivi
+1.2	16.0	45.0	Argilla organica e torba	Coesivi
+1.4	15.0	42.0	Argilla organica e torba	Coesivi
+1.6	24.0	46.0	Limo e/o argillan inorganica	Coesivi
+1.8	30.0	52.0	Limo e/o argillan inorganica	Coesivi
+2.0	29.0	63.0	Argilla organica e torba	Coesivi
+2.2	37.0	66.0	Limo e/o argillan inorganica	Coesivi
+2.4	27.0	57.0	Argilla organica e torba	Coesivi
+2.6	31.0	60.0	Limo e/o argillan inorganica	Coesivi
+2.8	23.0	52.0	Argilla organica e torba	Coesivi
+3.0	32.0	55.0	Limo e/o argillan inorganica	Coesivi
+3.2	40.0	62.0	Limo e/o argillan inorganica	Coesivi
+3.4	48.0	68.0	Limo sabbioso e sabbia limosa	Granulari
+3.6	45.0	67.0	Limo sabbioso e sabbia limosa	Granulari
+3.8	43.0	62.0	Limo sabbioso e sabbia limosa	Granulari
+4.0	47.0	63.0	Limo sabbioso e sabbia limosa	Granulari
+4.2	51.0	73.0	Limo sabbioso e sabbia limosa	Granulari
+4.4	42.0	70.0	Limo e/o argillan inorganica	Coesivi
+4.6	56.0	80.0	Limo sabbioso e sabbia limosa	Granulari
+4.8	53.0	88.0	Limo e/o argillan inorganica	Coesivi
+5.0	63.0	82.0	Limo sabbioso e sabbia limosa	Granulari
+5.2	57.0	87.0	Limo e/o argillan inorganica	Coesivi
+5.4	52.0	84.0	Limo e/o argillan inorganica	Coesivi
+5.6	54.0	86.0	Limo e/o argillan inorganica	Coesivi
+5.8	42.0	66.0	Limo e/o argillan inorganica	Coesivi
+6.0	45.0	70.0	Limo e/o argillan inorganica	Coesivi
+6.2	53.0	70.0	Limo sabbioso e sabbia limosa	
+6.4	55.0	81.0	Limo sabbioso e sabbia limosa	
+6.6	37.0	70.0	Limo e/o argillan inorganica	Coesivi
+6.8	52.0	83.0	Limo e/o argillan inorganica	Coesivi
+7.0	60.0	92.0	Limo e/o argillan inorganica	Coesivi
+7.2	53.0	83.0	Limo e/o argillan inorganica	Coesivi
+7.4	59.0	88.0	Limo sabbioso e sabbia limosa	Granulari
+7.6	63.0	95.0	Limo e/o argillan inorganica	Coesivi
+7.8	58.0	99.0	Limo e/o argillan inorganica	Coesivi
+8.0	57.0	102.0	Limo e/o argillan inorganica	Coesivi
+8.2	70.0	120.0	Limo e/o argillan inorganica	Coesivi
+8.4	83.0	139.0	Limo e/o argillan inorganica	Coesivi
+8.6	88.0	153.0	Limo e/o argillan inorganica	Coesivi
+8.8	93.0	159.0	Limo e/o argillan inorganica	Coesivi
+9.0	99.0	186.0	Limo e/o argillan inorganica	Coesivi
+9.2	106.0	178.0	Limo e/o argillan inorganica	Coesivi
+9.4	116.0	179.0	Limo e/o argillan inorganica	Coesivi
+9.6	115.0	189.0	Limo e/o argillan inorganica	Coesivi
