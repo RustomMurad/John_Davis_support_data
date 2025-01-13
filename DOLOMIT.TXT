@@ -96,7 +96,3 @@ d18O	d13C	Fe.ppm	Mg.per	Na.ppm	Mn.ppm	Sr.ppm	Ca.per	Porosity	Permeability	Deposi
 -5.11	4.76	2500	0.3	920	410	270	37.68	4.3	0	SF
 -9.19	5.09	38400	9.14	420	7600	80	22.72	0	0	DB
 -5.38	4.67	930	0.28	320	600	310	38.77	2.1	0	SF
-
-EB = Reflux of evaporite brines; SS = Seawater seepage; SF = Shallow burial
-alteration by fresh water; SM = Shallow burial alteration by mixed water;
-DB = Deep burial alteration
