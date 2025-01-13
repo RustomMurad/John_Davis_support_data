@@ -1,4 +1,4 @@
-delta O-18	delta C-13	Fe, ppm	Mg, %	Na, ppm	Mn, ppm	Sr, ppm	Ca, %	Porosity, %	Permeability, md	Depositional Environment
+d18O	d13C	Fe.ppm	Mg.per	Na.ppm	Mn.ppm	Sr.ppm	Ca.per	Porosity	Permeability	Depositional.env
 0.27	5.59	4818	10.27	673	761	98	18.2	3.1	0	EB
 -7.53	3.95	8461	10.44	388	3214	68	19.09	2.8	0	DB
 -7.7	3.98	6907	10.78	590	2837	55	19.22	3.7	0	DB
